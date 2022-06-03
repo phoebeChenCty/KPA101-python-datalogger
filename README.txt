@@ -33,3 +33,7 @@ and have the sys.path.append("") point to C:\Program Files (x86)\Thorlabs\Kinesi
 CREDITS
 all credit for this goes to ppakotze-sarao on github, I originally used his repository and file "Thorlabs kpa101 with pdp90a logger.ipynb"
 and changed it for my use case. 
+
+### install pythonnet:
+	python -m pip install --pre pythonnet
+because current version of pythonnet doesn't support python 3.9

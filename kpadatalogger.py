@@ -17,7 +17,7 @@ import time
 from pathlib import Path
 
 # this is seriously nasty.  Points for a better way of fixing this!
-sys.path.append(r"C:\Program Files\Thorlabs\Kinesis_2")
+sys.path.append(r"C:\Program Files\Thorlabs\Kinesis")
 
 # C:\Program Files\Thorlabs\Kinesis_2
 
