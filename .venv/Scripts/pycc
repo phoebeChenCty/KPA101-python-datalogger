@@ -1,0 +1,3 @@
+#!D:\Coding\KPA101-python-datalogger\.venv\Scripts\python.exe
+from numba.pycc import main
+main()
